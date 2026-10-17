@@ -1,0 +1,9 @@
+target/
+.idea/
+.allure/
+allure-results/
+allure-report/
+*.iml
+.env
+.env.*
+!.env.example
